@@ -1,0 +1,7 @@
+tmp
+venv
+media
+main/images/
+__pycache__
+.idea
+.env
